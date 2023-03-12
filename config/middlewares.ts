@@ -12,7 +12,6 @@ export default [
             "data:",
             "blob:",
             "dl.airtable.com",
-            "valuable-promo-headless-prod.s3.nl-ams.scw.cloud",
             process.env.STORAGE_HOST,
           ],
           "media-src": [

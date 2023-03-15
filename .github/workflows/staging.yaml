@@ -19,7 +19,7 @@ jobs:
 
   deploy:
     needs: build
-    uses: powerkernel/actions-workflows/.github/workflows/deploy-staging.yml@main
+    uses: ./.github/workflows/_deploy-staging.yml
     with:
       namespace: valuable-promo-staging
       deployment: headless-depl

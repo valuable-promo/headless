@@ -16,3 +16,12 @@ jobs:
       username: ${{ github.actor }}
     secrets:
       PASSWORD: ${{ secrets.GITHUB_TOKEN }}
+
+  deploy:
+    needs: build
+    uses: powerkernel/actions-workflows/.github/workflows/deploy-staging.yml@main
+    with:
+      namespace: valuable-promo-staging
+      deployment: headless-depl
+    secrets:
+      KUBE_CONFIG: ${{ secrets.KUBE_CONFIG_STAGING }}

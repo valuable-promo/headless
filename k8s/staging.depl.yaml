@@ -18,6 +18,7 @@ spec:
       containers:
         - name: headless
           image: ghcr.io/valuable-promo/headless:main
+          imagePullPolicy: Always
           envFrom:
             - secretRef:
                 name: headless-env

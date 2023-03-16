@@ -7,7 +7,8 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "release": "npx standard-version && git push --follow-tags origin main"
   },
   "dependencies": {
     "@strapi/plugin-i18n": "4.8.1",

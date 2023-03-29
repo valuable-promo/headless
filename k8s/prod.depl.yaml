@@ -6,7 +6,7 @@ metadata:
   annotations:
     reloader.stakater.com/auto: "true"
 spec:
-  replicas: 3
+  replicas: 1
   selector:
     matchLabels:
       app: headless-depl
@@ -18,7 +18,7 @@ spec:
       containers:
         - name: headless
           # mail will be replaced with latest tag by CI-CD
-          image: ghcr.io/valuable-promo/headless:main
+          image: ghcr.io/valuable-promo/headless:latest
           envFrom:
             - secretRef:
                 name: headless-env

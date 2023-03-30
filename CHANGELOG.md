@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/valuable-promo/headless/compare/v0.1.2...v0.1.3) (2023-03-30)
+
+
+### Features
+
+* adds page collection ([790c468](https://github.com/valuable-promo/headless/commit/790c46822c6b03ef08934a11981007db6aee755d))
+* adds social type and updates global schema ([497a162](https://github.com/valuable-promo/headless/commit/497a16221f39c64aad0b36e2b10a8c54fc6e24ee))
+
 ### [0.1.2](https://github.com/valuable-promo/headless/compare/v0.1.1...v0.1.2) (2023-03-29)
 
 

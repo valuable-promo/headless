@@ -33,6 +33,11 @@
     },
     "slogan": {
       "type": "string"
+    },
+    "socials": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.social"
     }
   }
 }

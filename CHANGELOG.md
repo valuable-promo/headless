@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/valuable-promo/headless/compare/v0.1.3...v0.1.4) (2023-04-05)
+
+
+### Features
+
+* updates schemas ([d58b436](https://github.com/valuable-promo/headless/commit/d58b436aab561d03a7553ee1f76941fcc793b49c))
+
 ### [0.1.3](https://github.com/valuable-promo/headless/compare/v0.1.2...v0.1.3) (2023-03-30)
 
 

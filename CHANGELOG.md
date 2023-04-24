@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/valuable-promo/headless/compare/v0.1.5...v0.1.7) (2023-04-24)
+
+
+### Features
+
+* adds about schema ([d8c9ef3](https://github.com/valuable-promo/headless/commit/d8c9ef34387314e94f17212ca63c0548eb5cb014))
+* adds about schema ([d86ceb8](https://github.com/valuable-promo/headless/commit/d86ceb82cd7a8061109be4796495ca1c7d06dfa5))
+* adds contributor schema ([0506e16](https://github.com/valuable-promo/headless/commit/0506e160e2afb9c4f838e78b3338f42e251aa9a9))
+
+
+### Bug Fixes
+
+* **deps:** update strapi monorepo to v4.9.2 ([4c64bac](https://github.com/valuable-promo/headless/commit/4c64bac492e0bf97502998b7d3232ab1d32701e4))
+
 ### [0.1.6](https://github.com/valuable-promo/headless/compare/v0.1.5...v0.1.6) (2023-04-15)
 
 

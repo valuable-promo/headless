@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.10](https://github.com/valuable-promo/headless/compare/v0.1.9...v0.1.10) (2023-05-06)
+
+
+### Bug Fixes
+
+* fixes typo in CI ([9fe9776](https://github.com/valuable-promo/headless/commit/9fe9776c1a7f03765bf9bc9d1ee1bace41140ac8))
+
 ### [0.1.9](https://github.com/valuable-promo/headless/compare/v0.1.8...v0.1.9) (2023-05-03)
 
 

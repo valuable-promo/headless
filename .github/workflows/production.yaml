@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    uses: powerkernel/actions-workflows/.github/workflows/build-production.yml@main
+    uses: valuable-promo/infra/.github/workflows/build-production.yaml@main
     with:
       username: ${{ github.actor }}
     secrets:

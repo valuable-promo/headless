@@ -14,11 +14,11 @@ jobs:
     secrets:
       PASSWORD: ${{ secrets.GITHUB_TOKEN }}
 
-  deploy:
-    needs: build
-    uses: valuable-promo/infra/.github/workflows/deploy-staging.yaml@main
-    with:
-      namespace: valuable-promo-staging
-      deployment: headless-depl
-    secrets:
-      KUBE_CONFIG: ${{ secrets.KUBE_CONFIG_STAGING }}
+  # deploy:
+  #   needs: build
+  #   uses: valuable-promo/infra/.github/workflows/deploy-staging.yaml@main
+  #   with:
+  #     namespace: valuable-promo-staging
+  #     deployment: headless-depl
+  #   secrets:
+  #     KUBE_CONFIG: ${{ secrets.KUBE_CONFIG_STAGING }}

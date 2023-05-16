@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.12](https://github.com/valuable-promo/headless/compare/v0.1.11...v0.1.12) (2023-05-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency pg to v8.11.0 ([f72686b](https://github.com/valuable-promo/headless/commit/f72686b3b714892ec061247cc0e2c3e6f7f78569))
+* missing directives strapi ([7433b33](https://github.com/valuable-promo/headless/commit/7433b3302148bb5b46cd10942ca7a71a595ba958))
+
 ### [0.1.11](https://github.com/valuable-promo/headless/compare/v0.1.10...v0.1.11) (2023-05-13)
 
 

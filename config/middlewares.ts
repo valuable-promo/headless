@@ -12,6 +12,7 @@ export default [
             "data:",
             "blob:",
             "dl.airtable.com",
+            "market-assets.strapi.io",
             process.env.STORAGE_HOST,
           ],
           "media-src": [
@@ -19,6 +20,7 @@ export default [
             "data:",
             "blob:",
             "dl.airtable.com",
+            "market-assets.strapi.io",
             process.env.STORAGE_HOST,
           ],
           upgradeInsecureRequests: null,

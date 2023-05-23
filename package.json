@@ -2,13 +2,14 @@
   "name": "headless",
   "private": false,
   "version": "0.1.12",
-  "description": "A Strapi application",
+  "description": "Headless CMS for valuable.promo",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
     "strapi": "strapi",
-    "release": "npx standard-version && git push --follow-tags origin main"
+    "release": "npx standard-version && git push --follow-tags origin main",
+    "test": "jest --forceExit --detectOpenHandles --passWithNoTests"
   },
   "dependencies": {
     "@strapi/plugin-i18n": "4.10.5",
@@ -19,12 +20,26 @@
     "@strapi/strapi": "4.10.5",
     "pg": "8.11.0"
   },
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0"
+  },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Harry Tang <harry@powerkernel.com>"
   },
   "strapi": {
     "uuid": "040309fc-37c4-442d-8b3b-b78ae0c29e44",
     "telemetryDisabled": true
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      ".tmp",
+      ".cache"
+    ],
+    "testEnvironment": "node"
   },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",

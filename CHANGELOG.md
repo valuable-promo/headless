@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.14](https://github.com/valuable-promo/headless/compare/v0.1.13...v0.1.14) (2023-06-11)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @strapi/plugin-seo to v1.9.1 ([#32](https://github.com/valuable-promo/headless/issues/32)) ([d70bf1e](https://github.com/valuable-promo/headless/commit/d70bf1e7518a339a753d6ffc0232d0a5d51f3936))
+* **deps:** update strapi monorepo to v4.11.0 ([38e9ef8](https://github.com/valuable-promo/headless/commit/38e9ef8f8e73b760f34ec586747189e04129bf86))
+
 ### [0.1.13](https://github.com/valuable-promo/headless/compare/v0.1.12...v0.1.13) (2023-06-07)
 
 

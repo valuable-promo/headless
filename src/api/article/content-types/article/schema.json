@@ -57,7 +57,7 @@
       "target": "api::author.author",
       "inversedBy": "articles"
     },
-    "discount": {
+    "promo": {
       "type": "string"
     }
   }

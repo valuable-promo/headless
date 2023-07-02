@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/valuable-promo/headless/compare/v1.0.1...v1.1.0) (2023-07-02)
+
+
+### Features
+
+* adds discount column ([c0bf718](https://github.com/valuable-promo/headless/commit/c0bf718b6f98a71e074a609021fedc86328e8478))
+
+
+### Bug Fixes
+
+* npm audit fix ([d966c9a](https://github.com/valuable-promo/headless/commit/d966c9aa3f6bf3befe1c740586c3f53a744eeade))
+
 ### [1.0.1](https://github.com/valuable-promo/headless/compare/v1.0.0...v1.0.1) (2023-06-30)
 
 

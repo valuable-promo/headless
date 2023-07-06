@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/valuable-promo/headless/compare/v1.1.1...v1.1.2) (2023-07-06)
+
+
+### Bug Fixes
+
+* **deps:** update strapi monorepo to v4.11.4 ([#41](https://github.com/valuable-promo/headless/issues/41)) ([151e533](https://github.com/valuable-promo/headless/commit/151e53306e4d7dcb0a1fcca9840bd34a74debcb5))
+
 ### [1.1.1](https://github.com/valuable-promo/headless/compare/v1.1.0...v1.1.1) (2023-07-02)
 
 ## [1.1.0](https://github.com/valuable-promo/headless/compare/v1.0.1...v1.1.0) (2023-07-02)

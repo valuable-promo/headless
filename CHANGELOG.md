@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/valuable-promo/headless/compare/v1.1.6...v1.2.0) (2023-07-23)
+
+
+### Features
+
+* adds author bio ([39278c2](https://github.com/valuable-promo/headless/commit/39278c2e1b5ce0ad88cac3dd88f75309f3d65e17))
+* adds author title ([7fb45e8](https://github.com/valuable-promo/headless/commit/7fb45e8e25feb2f4974d3c61a555997e4a504bca))
+
 ### [1.1.6](https://github.com/valuable-promo/headless/compare/v1.1.5...v1.1.6) (2023-07-20)
 
 

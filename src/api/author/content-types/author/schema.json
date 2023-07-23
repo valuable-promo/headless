@@ -45,6 +45,9 @@
       "required": true
     },
     "biography": {
+      "type": "text"
+    },
+    "title": {
       "type": "string"
     }
   }

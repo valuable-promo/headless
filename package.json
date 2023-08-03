@@ -1,7 +1,7 @@
 {
   "name": "headless",
   "private": false,
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Headless CMS for valuable.promo",
   "scripts": {
     "develop": "strapi develop",

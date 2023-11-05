@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.8](https://github.com/valuable-promo/headless/compare/v1.2.7...v1.2.8) (2023-11-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @strapi/plugin-seo to v1.9.6 ([#81](https://github.com/valuable-promo/headless/issues/81)) ([f6f11b8](https://github.com/valuable-promo/headless/commit/f6f11b89b735769b95527aaea3fbb61e7ebd6fc6))
+* **deps:** update strapi monorepo to v4.13.4 ([#66](https://github.com/valuable-promo/headless/issues/66)) ([91ef600](https://github.com/valuable-promo/headless/commit/91ef600254d507850d3d49951d1b966b987f7b02))
+* **deps:** update strapi monorepo to v4.13.5 ([#71](https://github.com/valuable-promo/headless/issues/71)) ([48eef1f](https://github.com/valuable-promo/headless/commit/48eef1f8968259aa21b34ab0197bb2e04c4eb0e1))
+* **deps:** update strapi monorepo to v4.13.6 ([#73](https://github.com/valuable-promo/headless/issues/73)) ([e958db0](https://github.com/valuable-promo/headless/commit/e958db042b3475bd33dafe308a51476aacc62725))
+* **deps:** update strapi monorepo to v4.13.7 ([#75](https://github.com/valuable-promo/headless/issues/75)) ([ba287ef](https://github.com/valuable-promo/headless/commit/ba287ef7839e5e680af3e646ed95f63b48c0e2f3))
+* **deps:** update strapi monorepo to v4.15.0 ([#77](https://github.com/valuable-promo/headless/issues/77)) ([c2310a9](https://github.com/valuable-promo/headless/commit/c2310a96c65bd148c34f385a9293e60072d5e0a0))
+
 ### [1.2.7](https://github.com/valuable-promo/headless/compare/v1.2.6...v1.2.7) (2023-09-09)
 
 

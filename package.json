@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@strapi/plugin-i18n": "4.21.1",
-    "@strapi/plugin-seo": "1.9.8",
+    "@strapi/plugin-seo": "1.9.9",
     "@strapi/plugin-users-permissions": "4.21.1",
     "@strapi/provider-email-nodemailer": "4.21.1",
     "@strapi/provider-upload-aws-s3": "4.21.1",

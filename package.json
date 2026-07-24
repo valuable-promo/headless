@@ -12,11 +12,11 @@
     "test": "jest --forceExit --detectOpenHandles --passWithNoTests"
   },
   "dependencies": {
-    "@strapi/plugin-i18n": "4.21.1",
+    "@strapi/plugin-i18n": "4.25.23",
     "@strapi/plugin-seo": "1.9.9",
     "@strapi/plugin-users-permissions": "4.21.1",
-    "@strapi/provider-email-nodemailer": "4.21.1",
-    "@strapi/provider-upload-aws-s3": "4.21.1",
+    "@strapi/provider-email-nodemailer": "4.26.2",
+    "@strapi/provider-upload-aws-s3": "4.26.2",
     "@strapi/strapi": "4.21.1",
     "pg": "8.11.5",
     "react-dom": "18.2.0"
